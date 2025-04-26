@@ -62,9 +62,10 @@ These are merged and cleaned for the recommendation model.
 
 ## 🤝 Contribution
 
-Pull requests are welcome!  
-Got ideas? Found bugs? Drop an issue or connect on [LinkedIn](#) 😉
+## 🤝 Contribution
 
-## 📄 License
+Pull requests are welcome! If you have ideas, found bugs, or want to contribute in any way, feel free to open an issue or submit a pull request. 
 
-This project is licensed under the MIT License.
+You can also connect with me on [LinkedIn](https://www.linkedin.com/in/yogeshwaran-k-363800210/) to discuss or share feedback. 😊
+
+
