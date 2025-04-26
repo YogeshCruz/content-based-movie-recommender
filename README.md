@@ -55,13 +55,9 @@ These are merged and cleaned for the recommendation model.
 - Recommends movies based on user selection.
 
 ## 📸 Preview
-Here’s how the UI looks:
+![UI Preview](assets/image.png)
+![Another Preview](assets/ui.jpg)
 
-![Image Preview](assets/image.png)
-
-And another view of the UI:
-
-![UI View](assets/ui.jpg)
 
 
 ## 🤝 Contribution
